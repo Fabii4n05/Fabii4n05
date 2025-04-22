@@ -31,7 +31,7 @@
   <a href="https://www.instagram.com/fabian05maco" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="[https://www.facebook.com/](https://www.facebook.com/Fabi4n.Maco?locale=es_LA)" target="_blank">
+  <a href="https://www.facebook.com/Fabi4n.Maco?locale=es_LA" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
 </p>
